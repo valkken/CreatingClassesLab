@@ -1,0 +1,10 @@
+2: Gina James's favorite color is Red
+Person ID:3
+FirstName: Mike
+LastName: Briscoe
+FavoriteColor: Blue
+Age: 45
+IsWorking:True
+1: Ian Brooks's favorite color is white
+Mary's age in 10 years is 38.
+Press any key to continue . . .
